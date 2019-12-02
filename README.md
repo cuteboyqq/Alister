@@ -1,6 +1,6 @@
 # CIFAR10 load .jpg image to train tensorflow keras .h5 model (validation accuracy=81%)
 CIFAR10
-Input: 
+Input: Directory path of train and validation images of jpg format.
 folder name:
 1. train---0--> label 0 jpg images,
         1--> label 1 jpg images,
