@@ -1,4 +1,4 @@
-# Alister
+# CIFAR10 load .jpg image to train tensorflow keras .h5 model
 CIFAR10
 Input: 
 folder name:
