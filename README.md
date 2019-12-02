@@ -22,10 +22,10 @@ folder name:
                 7..,
                 8..,
                 9..,
-    2.use tensorflow and keras to train CNN model
-    3.show train model epoch acc and loss
-    4.model predict and porbability
-    5.show some predict results of CIFAR10 validation JPG images
+2.use tensorflow and keras to train CNN model
+3.show train model epoch acc and loss
+4.model predict and porbability
+5.show some predict results of CIFAR10 validation JPG images
     
     Ouput:
     1. save model as .h5 file
